@@ -1,5 +1,14 @@
 ## Predicting the Likelihood of Dementia in Senior Citizens and Alzheimer's Analysis
 
+### Abstract
+
+Alzheimer’s disease and dementia are debilitating conditions that affect millions of lives worldwide, and early detection of these disease is critical to provide effective treatment. This report presents a comprehensive review of various machine learning techniques for detecting Alzheimer’s disease and dementia. 
+
+The report also presents a comparative analysis of different machine learning models to identify the most effective techniques in detecting these conditions. In addition to evaluating individual models, the study also ensembles the models using hard and soft voting. 
+These machine learning models are trained on a pre-processed OASIS Longitudinal dataset which is a widely used and publicly available dataset of longitudinal MRI scans.
+
+The results of this study have important implications for future research and the potential use of machine learning algorithms in clinical settings for the early detection and treatment of Alzheimer’s and dementia. The comparative analysis of different machine learning models and their effective in the detecting the said diseases can guide the selection of appropriate models for future research and clinical applications.
+
 ### Feature Selection
 
 Iterative Feature Selection based on Gini Importance:
